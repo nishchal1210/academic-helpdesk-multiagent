@@ -107,8 +107,7 @@ The renderer produces the answer, source references and optional email draft.
 ## Evaluation
 
 The recorded experiment contains **22 verified questions, two models, two agent modes and three
-repetitions: 264 responses**. The final report is [REPORT.pdf](reports/REPORT.pdf), with editable source
-in [REPORT.md](reports/REPORT.md).
+repetitions: 264 responses**. 
 
 | Artifact | Contents |
 |---|---|
