@@ -1,0 +1,4 @@
+instructor_id,name,email,source_document_id,source_locator
+F001,Dr. Asha Example,asha@example.invalid,demo-faculty,line 3
+F002,Dr. Ravi Example,ravi@example.invalid,demo-faculty,line 4
+F003,Dr. Meera Example,meera@example.invalid,demo-faculty,line 5

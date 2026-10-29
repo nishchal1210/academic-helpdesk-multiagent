@@ -1,0 +1,265 @@
+question_id,accuracy,groundedness,reviewer,notes
+2affd2b3783b412d989ef9282f09be88,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+622aec6a2494420a9e1adc5af39993cd,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+b850915cb0414f0fa4a2c188fb52ac7f,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+0b81200215fa47618d2a114a107dfb24,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+f90a2bf66dbe4878b851591e1fa9fdf6,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+454cf6b1351d4ddb96460d741838b72c,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+d1bca89afac449d99575d41be8252f19,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+da7894964c8a4a42b31336c27ff8ebcf,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+b5636b71bfbc486dbf2e745e3085e13b,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+1b91048511644a9ea96e229a26d3e89b,1,1,assistant,Correct instructor identity with course-allocation and faculty-contact evidence.
+a71badd15da7438e85d78eda4d17a2ff,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+54d54635cfb54c379681aae01dea48f7,1,,assistant,Correct refusal for a course absent from the current allocation.
+1e6f030a0ee74b6a8d4758cfd9af7dd4,0,,assistant,False refusal: evidence review rejected the response and withheld an answerable email draft despite a verified contact.
+637d2bdb51d946c890b5998ed7924d1c,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+7f86f5a6b0464fd2ac6c598ed7510ceb,1,,assistant,Correct clarification request for the missing course code.
+31f6d1b8b80b4c10b0fba2f1aae0619e,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+e6f39dcffe674ce09b87626d3b278e29,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+22d1b274d9ad4381b148e65d7b5b1683,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+f6046e0965304316b7a9a12a76d2e768,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+d2bb60899b844f149763a06a61cec4eb,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+e080540b1ebc4dff89954abcb702bb32,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+53bcf02c365f4d8980a932c44e791403,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+c937ca7947d04136b93f6ff8e3fb00c4,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+1c21028d8cb2484f86e51d5aa4c70a4f,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+e331ef879b7f47fcb2c3d98ef6192e3c,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+6cd1a9dd561a47fbae8243337747b532,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+58741c1f89284b55b87dc2d9663dea79,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+8ad1f15a2f6242e697e90be50dad2ce7,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+09d0027ff10b4a0ebf6ce3c4752a9c13,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+d020180b3de646d1883f622ae915bc26,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+ca2e3a6f9f7747809e1d24803937dde4,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+2ccaa417757a48abb53398c41f040821,1,1,assistant,Correct instructor identity with course-allocation and faculty-contact evidence.
+5c13fc4e916d478eb4355a08c33af3e7,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+3cfc69d9405a4587be26f836d86ba46b,1,,assistant,Correct refusal for a course absent from the current allocation.
+3a56cd8d1913448dbfb79b6468235040,0,,assistant,False refusal: evidence review rejected the response and withheld an answerable email draft despite a verified contact.
+88bf4350ef2245be97ceb6dee12031cc,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+840ba141185f45b4898d5a57c3cc41aa,1,,assistant,Correct clarification request for the missing course code.
+a91514d90a1e484b99a1fd1fae7971ec,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+98ca461dff3c4fcfb03891542616eead,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+2995ade467324267bf9a8de4002b9078,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+8928cf749dbb4b6c87558ca49b26fcc7,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+e171a6190ddf4cd6899bb9df73c13de7,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+5fba17b6eda24e06981fe46f9fff1178,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+5c359868a1a14bfc9ddf4b6f1699ed61,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+ba3a90c52f4443d68821c2475253981a,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+c98ae071cbf540e882b86ce2ed97a8d1,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+593229e5d9b745e9a4c8b1c75499b9dd,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+11268a20103a4695ab556df6f2a1dfe2,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+97e13612154c4b39a75eefb86dd8be7b,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+03c7f2e42c694471a1a9e70cf8c9dd61,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+26df71d5ce0d477aabf55a6a199a5577,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+ce76c49d0d9445dd970aeaca868e07b5,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+785f107c7f7342f885713c9a2517f3bd,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+605a2eca7aa04708a7156b0c0aaf6147,1,1,assistant,Correct instructor identity with course-allocation and faculty-contact evidence.
+4de4aa0bc3574757ad645fe59f2fa493,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+f6a277a95b04489992804cb51a39dfa6,1,,assistant,Correct refusal for a course absent from the current allocation.
+2d95bd43e562493c9606afa9e10c71f2,0,,assistant,False refusal: evidence review rejected the response and withheld an answerable email draft despite a verified contact.
+84a37cc544ad4561a489d6aea12cf5b7,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+c29f79a2ae1f436caf74280c32e0f44f,1,,assistant,Correct clarification request for the missing course code.
+1b0e5ed4161d4e93979586df57f8a4d1,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+7e128d6de2c348f48e8d78e41a7a06bb,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+1e56f6d861ec4f1192b9f9aae2a1013d,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+32b2462249f6439785170077c43d8582,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+4c30d60d179e491b82193241f0f07850,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+62e58ba0f57f4dc0a1cf7697d5bf7aaf,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+68d7e71f237e48d587aae8437c78a397,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+4a2d3bc085e04e1ca9342d620a552a4b,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+fd37376b005a4adab7c8ca9e6e6e5b76,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+80198019c5ff402298dc0969fb7f757a,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+af87dd1683e8433ca8d8d28cfc22b02e,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+f11d8da3fcf0498a8dca730e1d94bfa6,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+564e63902f6448049b9a939096227dc5,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+5259f8f9ed1f428b87beca4bd64a9248,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+f04d7ea9785e4e439b7cf03e881a6642,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+68fe0c8039fe4d18adf86c44da811058,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+05f024429b8c4f47ba080b637ea33fc0,1,1,assistant,Correct instructor identity with course-allocation and faculty-contact evidence.
+1cb6ae4db4fb41e7a50be1b6e9be0a4f,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+b039fb34115147c0888d3d80f9d70b79,1,,assistant,Correct refusal for a course absent from the current allocation.
+fa4ba17f21c749a0873336fbbda18566,1,1,assistant,"Verified recipient, user-supplied three-day illness leave and placeholders for missing dates/identity."
+d8ada669f9754b71b06d33a22d56eb26,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+9ab131727e854b5091f36804f7dfa386,1,,assistant,Correct clarification request for the missing course code.
+4730f8c2813f445592424865061b0d74,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+327836a762ef4c1d91ae47ec61828d05,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+1c4e6f0de80e44e5a06426734e5af65a,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+fc163f9b36e44d85b9a539d3adc91237,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+b195ad43bad44da5ad1acfc1affc0e5b,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+ab8ab0b0afb64c158d1f01dfd74befe7,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+c8b0ecb4d06741a6955486523d705b68,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+1448742b656c4901aca56c1f52446c89,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+6fe27b9e71f84386b1f49432ff1b3934,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+6dc6dcf539924f688f1b9043e295703b,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+3dfcae22e26c4377b9ff811eece4084c,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+bc6dcefcfee74e819294a7dea8ec0950,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+760f2e7a804b4bad9a415ec5edb667d6,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+1166684045d143d7b1868f51e6adceb8,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+2c7ec6846cc5408195ffdad34352d565,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+a58d2b326e8f4d31a3aea3098b6d8cd6,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+3b2d9d4af78b4c299a1ea5513ced1c37,1,1,assistant,Correct instructor identity with course-allocation and faculty-contact evidence.
+38e582aaab224ab396de54377a580836,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+fb33292eb39842019897a0faf9db7af8,1,,assistant,Correct refusal for a course absent from the current allocation.
+7f64534bfacb490097ec91694fa7a3df,1,1,assistant,"Verified recipient, user-supplied three-day illness leave and placeholders for missing dates/identity."
+edbc57f1a0474d3784cf06a6cd3c78a5,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+e6fdfeda71e74cb594f79d0bf2252ddc,1,,assistant,Correct clarification request for the missing course code.
+c519d6405487484591b10596e62e979a,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+959d765f9ca24666a17b1063eb4bbed7,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+273e332e866a4dafa3e192fd8ded3c5d,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+c3d4349401d64142934a5c94a48746f6,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+49eceed747944a919de0cbebdfa769ff,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+94c8afd38b4e4128a8c259f0973430a5,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+2a5e446ef45346338be296078b439556,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+30a7a4a0ba3a42c8bb2c66a3964dbc2d,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+cc22089486b84a4b8d61ff776693c00b,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+aae1f200eb9e414ca0c85529ea736abd,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+4e13ec1e3a4e4428a843cf918c587889,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+539f4b668b3447bfac1385693ce03760,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+b1b3565367c54c918fa556979c2737a7,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+1127837df579479fb89d405e1390ed37,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+e380504aebed418692367f6a3c72d2ad,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+c40ec80a2a6740679346222445acc63b,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+287df2828b8c4cf8b0dcf2932873987f,1,1,assistant,Correct instructor identity with course-allocation and faculty-contact evidence.
+d9860724e06a4f798842edbe58a5c117,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+e22b70d336bd4c8690a7a14f4b056432,1,,assistant,Correct refusal for a course absent from the current allocation.
+11b3ddd1c0964484b8177f8eeea8fe65,1,1,assistant,"Verified recipient, user-supplied three-day illness leave and placeholders for missing dates/identity."
+e82d75b8d74e4efeab0ec0ace0059f56,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+22173b98db2e4e47a48b2eb013cc6d67,1,,assistant,Correct clarification request for the missing course code.
+35cdecdfcd8342d791d9d5162dfd7bf5,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+0a442daaa92b4cb0863d4e6f11fd7e7c,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+cc316e0ca2c24462b19ff93b8d4bf1a4,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+48e5b2f00ae940d5a61f76871c076f19,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+e4069229920741bd9c285dc9fca329aa,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+fe9d99752c494c87a23c81dcc2b9f10e,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+37fc1f1efafe4758929ca5c36364a28c,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+89be5821aed34ff6ae8b06fc0ff781db,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+69b14133a5a14328be1db0beac993082,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+043c3cb0577f40e080912e25d926b304,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+a7cda909d2e246358a43295c11153c4b,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+55dbe7bc5f96470c9dfd83ccf8cd2377,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+864ea71d40aa4fa89a19a7f0d7387b59,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+b65db94c42ce421c81e1832914ad561f,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+114dec0f60994c1ca12abe826ad5e096,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+ee5ad887df664473845e951a9b3bfe72,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+c9e5db491e3c4a22b093bfb6b3a9c5af,1,0,assistant,"Instructor name is correct, but the sole contact citation does not establish the course-to-instructor assignment; allocation evidence is missing."
+74add5560bda4d019839f9eef16ee862,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+f8fffb6516774d8cae4f21a8bcefdcd2,1,,assistant,Correct refusal for a course absent from the current allocation.
+3f6340f2a3124165b4048831f63500db,1,1,assistant,"Verified recipient, user-supplied three-day illness leave and placeholders for missing dates/identity."
+f7b97b6f08c9462bacdaf19b0e70156d,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+958c18ebfc7b491db396bb7f5b8606e1,1,,assistant,Correct clarification request for the missing course code.
+5e1bcd6676ec4094829f139ded189ead,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+7b3abf23d5e248dda1efc3ad0ca0189e,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+46a59626454146b89cecd519879bece3,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+aedbcbe052234cdc80614276c4ad852a,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+3977ae06bf4a4ee4b90a0a7e3161cf70,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+d39029a3cbf140e39bd5767cdcbeaa77,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+a449c08aa9d046d7919dc41d12376ffa,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+0845b3f34a0b4d2c8d08270d89990c2c,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+2e849734500141fa8c7b29b393ff3e69,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+e930511eb8ab413d901227c6f235c097,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+5f3912500fc3413f8f01f88fdbf9d2c4,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+d073f0ff689c4e468efcd1d1f60ba0f9,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+51277ebfe5a244bbb89d4aeb6f09c0b9,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+6d0f2b1295ff4adaa8d965939c907675,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+89eaa1fe75704bc9a2db82407610f256,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+2a052079e3a5477baa601eab69a9258e,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+33eade468b5d44eb84a6431d05667bfc,1,0,assistant,"Instructor name is correct, but the sole contact citation does not establish the course-to-instructor assignment; allocation evidence is missing."
+bb6694d741fe46ad99d67c1722665a9e,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+87849f068cf1450ca1733b47c63f8594,1,,assistant,Correct refusal for a course absent from the current allocation.
+af340d4729434d8287cd9136eeeeee76,1,1,assistant,"Verified recipient, user-supplied three-day illness leave and placeholders for missing dates/identity."
+5b7339bd46024b309102b6d3e95ba32b,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+851a088406a44422a4a7c1706de915e8,1,,assistant,Correct clarification request for the missing course code.
+4fcb113b38bb4af0a5000339af9e5cb3,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+495da105ad154b0ab191a67ac03e037c,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+86d3f38b38d94ce8bc50eae30ce600a6,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+2720f832f14d42a6a6f94daaba528fe3,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+aa8b256a2e264fe1b9f9a1ce1becb582,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+ff7e597988b4440e87491a68a2cb7365,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+749e8f46f8a8446297b425e6c7a953a4,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+92a8ef869cb04babb96d98d9b0b8cac3,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+371e70d263b6417f92fcc6a43981f613,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+a39510d96d70475f80686ca967eac929,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+32f22f79ff894689b3b6fbb16736f4fd,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+f32e091bae3645d79bb1641d76d20560,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+94b9f62a0c6041198a0633d3a96ea3de,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+d93062a042014f2097bab411645ed9a1,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+016022848442488c85b78a63b5ce0c11,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+6928e01cc3bb495b8ce32b71ee50846b,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+e2d47be56cc249a1a1266bb8dbccae56,1,0,assistant,"Instructor name is correct, but the sole contact citation does not establish the course-to-instructor assignment; allocation evidence is missing."
+0496121c02e84feba6705348eeadd774,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+ef23b76aaa3f47bea2277bbf52684af8,1,,assistant,Correct refusal for a course absent from the current allocation.
+c753af9a7b3446d8b1aa67c203de9aad,1,1,assistant,"Verified recipient, user-supplied three-day illness leave and placeholders for missing dates/identity."
+a136f72e78534f5f8557c7f694dff66e,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+1b5ad53135f146109d9f1d9d1a0dcc5e,1,,assistant,Correct clarification request for the missing course code.
+65968f62d8c24a93aff8d7f916c8cb6c,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+6939deff358f43f8a5c319d43642c1ce,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+324d85b70e7940a98642f2eba0a7c453,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+991b2e30a5bb40c7969e72f241d08541,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+74d72b61694a4b74954b8fef2c55616a,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+da22295dbbe8482ca98af72b93108d0e,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+b056eab469f1464cb845f8cb3a017faf,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+5a8331b6aacc41bbbb3a0039fb83fcf6,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+bcffa8b2b98148878f0fed43ec19fede,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+5a6216d332934ab99129150108d08496,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+af8c39c1266d47a09562f053ee7f0965,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+201c96a0e43a43508522e32597ad4717,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+ae404f729a3d49c5a1130a72cd9202d3,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+08afccb9da964d5eb0d1245adda5271e,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+bc219a71475d478289d77e0b45035e9c,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+f09ccbab35014098a3ee3c4522cf5ae1,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+be2059b88ebf431988c69de3f15eef37,1,0,assistant,"Instructor name is correct, but the sole contact citation does not establish the course-to-instructor assignment; allocation evidence is missing."
+0b8117805b4d42dca8d133c8eb737459,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+545a79f116f549b39730a21bc1103a16,1,,assistant,Correct refusal for a course absent from the current allocation.
+8732cf8f76044ea49482c31a6efa60c3,1,1,assistant,"Verified recipient, user-supplied three-day illness leave and placeholders for missing dates/identity."
+12ed937e798e49dba819f5c60daf5fe8,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+68f4e12ee60a4d71a2a11eae134e248f,1,,assistant,Correct clarification request for the missing course code.
+4dfc8835d71e4300b612dd99a7a2926b,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+171e32c8be474fcb83c58a3ced8fb898,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+c199979260c748cabc2844d6838dabbe,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+e99be4c3594f4ed7867c902722d88e59,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+a6d6338bdd134780a79351a1528507b2,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+57756ceb7cb945079180382b8c335576,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+f98726dbc75443628fbc016a50518272,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+c2a720e64ceb49078281bd8d567bf088,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+c53416425db94c4da2c2a670b63d864a,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+bb605e3f78a24e7aa126407d13d5d862,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+00fa53096e5446bab1eb0a12450d1ec9,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+88d54f2016244b749a7c3985a3e5f341,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+af3e23085aca4adfbcd35fb52b7342ca,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+2164fa997550402da5e4fef61570098c,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+7bf680b009ff46aab9c7cd63bd3a0f76,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+806281bde8af48dbb9e4421d5af895c0,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+9d9df1dd7dd84028b82bb8089f9b0270,1,0,assistant,"Instructor name is correct, but the sole contact citation does not establish the course-to-instructor assignment; allocation evidence is missing."
+1118f3c163844c05b3a0931ac33fa1f5,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+a2039df2fde349d69dd74aa6334889c0,1,,assistant,Correct refusal for a course absent from the current allocation.
+c774ea3e591849979c02a832626b04fe,1,1,assistant,"Verified recipient, user-supplied three-day illness leave and placeholders for missing dates/identity."
+067854c03b704c9b918c7f54c6f92c9e,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+345f9e6b87934d659e59ad42a12d86fb,1,,assistant,Correct clarification request for the missing course code.
+c94bb93c550f492096b476e2b68a552d,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+d02921a684634a9b86388e1a78a01317,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+c1f16c76a8da41b0990b58f04733751f,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+7104bf4918dd45d997e733c1bafaeb38,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+be90cbdb7a254c04a61e3b89b3e3e32b,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+41bff0a393954265820cfe22170c5799,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+cb945cbd7bfe41cda770ca0432cf2069,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+6a3f212dc493433385a6ccbbed5aa62d,1,1,assistant,Revised attendance circular expressly decouples examination performance from attendance.
+c670a5c965864a068cd6dfb9b9cbad48,1,1,assistant,Weekly attendance-record requirement is correct and directly supported.
+9df2bdcd3cd34149ac8a96002cefc42a,1,1,assistant,"Preserves unsanctioned absence, more than two weeks and instructor discretion."
+5ab9ab2005fd426e86b0f46f8a550f51,1,1,assistant,Withdrawal rule retains absence from all academic activities and all-course scope; no restriction to contiguous weeks or leave status is invented.
+37a8efce0a124aeb838566d567c28880,1,1,assistant,Three-hour Major examination duration is supported by the evaluation circular.
+2668b76f32ce4396bc26e7a003474a15,1,1,assistant,Two-hour Minor examination duration is supported by the evaluation circular.
+556e8542525a455f9147d2933aa54ad3,1,1,assistant,Instructor discretion over Minor and continuous-evaluation weights is correctly cited.
+dcc2a92b002f4f5d890061f78dbbb089,1,1,assistant,Correctly rejects medical-booklet photocopies; the DOCX is an acceptable equivalent to the gold PDF.
+96c23a3af2d64754946abbedfe8aece7,0,,assistant,False refusal: a supported class-days question was incorrectly classified as out of scope.
+96fbbbfae1d946118f72e88f284ecac3,1,0,assistant,"Instructor name is correct, but the sole contact citation does not establish the course-to-instructor assignment; allocation evidence is missing."
+51b9b844513d4e9c9c66d33ddba5d7ce,0,0,assistant,Correct numeric time/date but omits the material tentative qualifier. Strict qualified-answer accuracy and semantic grounding fail.
+0e8f2305302645d7b5dfcf4695a6a9f6,1,,assistant,Correct refusal for a course absent from the current allocation.
+fb363b307fd0401f91c3285090ad46dc,1,1,assistant,"Verified recipient, user-supplied three-day illness leave and placeholders for missing dates/identity."
+f8649401104d4a379e3215257a3c3701,1,1,assistant,Verified recipient and permission request; missing exam date and student details remain placeholders.
+c495fbf63eb440ef9d0dbd067aca6399,1,,assistant,Correct clarification request for the missing course code.
+5c9c4d3122f94076a1c6f7f7c55696b7,1,,assistant,Correct refusal to invent an individualized approved makeup-exam date.
+a074978ffc14431bb42564e996dd7fb6,1,,assistant,Correct refusal for an unestablished CSL7570 offering; CSL7650 is not substituted.
+17986d96e0b842bb8342e8ad0d421246,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+f9abdafb93ac4c0fb682d3e81f288141,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+2cdd3381a817435682fff7d5423f9e94,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+b132780b3a604cadbc58fb3b88228415,1,,assistant,Correct out-of-scope refusal without a speculative general answer.
+cb65557ff24c4cde84516f05470627ec,1,,assistant,Correct out-of-scope refusal without a speculative general answer.

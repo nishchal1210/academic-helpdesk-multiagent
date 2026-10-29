@@ -1,0 +1,8 @@
+{
+  "source_sha256": "a95d82ee229c60ab932e2789064aee312aba81ef1ca57eefe586a1f59532d522",
+  "method": "Tesseract 5 English OCR",
+  "notes": "English body text; verify OCR against original scans. Historical attendance quotation excluded from retrieval, original preserved.",
+  "pages": {
+    "4": "IIT HEALTH CENTRE\n\nNEW CAMPUS, KARWAD, JODHPUR\n\nName Age Sex Patient ID\n\nDate\n\nRun & Managed By\n\nGoyal Hospital & Research Centre Pvt, Lta\u00ae\n9613/3 Residency Road, Jodhpur - 342003 INDIA\nPBX : +91-291-2432144, 2341411, 2625933 Fax : +91-291-262480\nE-mail : goyalhospital@yahoo.com, info@gayalhospital.org.\nWebsite : www.goyalhospital@org\n"
+  }
+}

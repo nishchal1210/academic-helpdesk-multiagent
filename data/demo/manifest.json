@@ -1,0 +1,14 @@
+{
+  "institution": "SYNTHETIC IIT Jodhpur demonstration — not official records",
+  "synthetic": true,
+  "complete_course_semesters": ["DEMO-2026-I"],
+  "documents": [
+    {"id":"demo-attendance","file":"documents/attendance.md","title":"Synthetic attendance policy","category":"policy","authority":"Invented test fixture","effective_date":"2026-01-01","synthetic":true,"programmes":["B.Tech"]},
+    {"id":"demo-degree","file":"documents/degree.md","title":"Synthetic B.Tech degree requirements","category":"curriculum","authority":"Invented test fixture","effective_date":"2026-01-01","synthetic":true,"programmes":["B.Tech"],"cohorts":["2023"]},
+    {"id":"demo-exams","file":"documents/examinations.md","title":"Synthetic examination rules","category":"policy","authority":"Invented test fixture","effective_date":"2026-01-01","synthetic":true},
+    {"id":"demo-registration","file":"documents/registration.md","title":"Synthetic registration order","category":"registration","authority":"Invented test fixture","effective_date":"2026-01-01","synthetic":true,"semesters":["DEMO-2026-I"]},
+    {"id":"demo-contents","file":"documents/contents.md","title":"Synthetic CSL7570 syllabus","category":"curriculum","authority":"Invented test fixture","effective_date":"2026-01-01","synthetic":true},
+    {"id":"demo-timetable","file":"documents/timetable.md","title":"Synthetic complete course list","category":"schedule","authority":"Invented test fixture","effective_date":"2026-01-01","synthetic":true,"semesters":["DEMO-2026-I"]},
+    {"id":"demo-faculty","file":"documents/faculty.md","title":"Synthetic faculty contacts","category":"contacts","authority":"Invented test fixture","effective_date":"2026-01-01","synthetic":true}
+  ]
+}

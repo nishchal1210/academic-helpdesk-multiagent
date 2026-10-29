@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "academic-helpdesk"
+version = "0.1.0"
+description = "A local, evidence-first academic helpdesk using Google ADK, Ollama and Chroma"
+requires-python = ">=3.11"
+dependencies = [
+  "google-adk==2.13.0", "litellm==1.106.6", "chromadb==1.5.9",
+  "ollama==0.6.3", "pydantic>=2.11,<3", "python-dotenv>=1,<2",
+  "pypdf>=6,<7", "python-docx>=1.2,<2", "rank-bm25>=0.2.2,<0.3",
+  "mcp>=2.2,<3",
+  "openpyxl>=3.1,<4", "PyMuPDF>=1.26,<2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.12,<1"]
+report = ["markdown-it-py>=3,<5"]
+
+[project.scripts]
+helpdesk = "helpdesk.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["helpdesk*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F"]

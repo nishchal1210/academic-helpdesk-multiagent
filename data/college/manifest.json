@@ -1,0 +1,327 @@
+{
+  "institution": "IIT Jodhpur",
+  "synthetic": false,
+  "documents": [
+    {
+      "id": "exam-guidelines-2024",
+      "file": "documents/exam-guidelines-2024.docx",
+      "title": "General Guidelines for Institute Examination (2024)",
+      "category": "policy",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "minor-timetable-2026-i",
+      "file": "documents/minor-timetable-2026-i.xlsx",
+      "title": "Minor examination timetable, Semester I 2026-27",
+      "category": "schedule",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-I"
+      ],
+      "notes": "The workbook explicitly calls this timetable tentative. Course-specific confirmed shifting entries take precedence.",
+      "synthetic": false
+    },
+    {
+      "id": "major-timetable-2026-i",
+      "file": "documents/major-timetable-2026-i.xlsx",
+      "title": "Major examination timetable, Semester I 2026-27",
+      "category": "schedule",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-I"
+      ],
+      "notes": "The workbook explicitly calls this timetable tentative. Course-specific confirmed shifting entries take precedence.",
+      "synthetic": false
+    },
+    {
+      "id": "major-clashes-2026-i",
+      "file": "documents/major-clashes-2026-i.xlsx",
+      "title": "Major examination clash and shifting sheet, Semester I 2026-27",
+      "category": "schedule",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-I"
+      ],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "attendance-amendment-2024",
+      "file": "documents/attendance-amendment-2024.pdf",
+      "title": "Attendance policy amendment, Circular 51, 8 July 2024",
+      "category": "policy",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": "2024-07-08",
+      "status": "current",
+      "semesters": [],
+      "notes": "Revised policy replaces the quoted historical policy; use only Revised Policy and its continuation on page 2. Exam performance is no longer linked to attendance.",
+      "synthetic": false
+    },
+    {
+      "id": "examination-amendment-2024",
+      "file": "documents/examination-amendment-2024.pdf",
+      "title": "Examination evaluation amendment, Circular 52, 8 July 2024",
+      "category": "policy",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": "2024-07-08",
+      "status": "current",
+      "semesters": [],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "btech-leave-form",
+      "file": "documents/btech-leave-form.pdf",
+      "title": "A-15 B.Tech leave application form",
+      "category": "policy",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "slots-2026-ii",
+      "file": "documents/slots-2026-ii.xlsx",
+      "title": "Slot system and contacts, Semester II 2026-27",
+      "category": "schedule",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-II"
+      ],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "slots-2026-i",
+      "file": "documents/slots-2026-i.xlsx",
+      "title": "Slot system and classroom allocation, Semester I 2026-27",
+      "category": "schedule",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-I"
+      ],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "academic-regulations-base",
+      "file": "documents/academic-regulations-base.pdf",
+      "title": "Academic Regulations, IIT Jodhpur (website printout)",
+      "category": "policy",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [],
+      "notes": "Base regulations include historical clauses. Attendance and examination evaluation amendments of 8 July 2024 take precedence for those topics.",
+      "synthetic": false
+    },
+    {
+      "id": "academic-calendar-2026",
+      "file": "documents/academic-calendar-2026.pdf",
+      "title": "Academic calendar, academic year 2026-27",
+      "category": "schedule",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-I",
+        "2026-27-II"
+      ],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "cse-course-catalogue",
+      "file": "documents/cse-course-catalogue.pdf",
+      "title": "CSE course catalogue and syllabi",
+      "category": "curriculum",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "cse-specializations",
+      "file": "documents/cse-specializations.pdf",
+      "title": "CSE specializations and dual degree programmes",
+      "category": "curriculum",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "aids-curriculum-2020",
+      "file": "documents/aids-curriculum-2020.pdf",
+      "title": "B.Tech AI and DS curriculum, edition AY 2020-21",
+      "category": "curriculum",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [],
+      "notes": "Source edition is AY 2020-21. The student explicitly confirmed on 2026-10-30 that the same curriculum applies to admission batch 2023.",
+      "synthetic": false,
+      "branches": [
+        "Artificial Intelligence and Data Science"
+      ],
+      "cohorts": [
+        "2023"
+      ],
+      "programmes": [
+        "B.Tech"
+      ]
+    },
+    {
+      "id": "course-list-2026-i",
+      "file": "documents/course-list-2026-i.xlsx",
+      "title": "Finalized departmental course lists, Semester I 2026-27",
+      "category": "schedule",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-I"
+      ],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "course-list-2026-ii",
+      "file": "documents/course-list-2026-ii.xlsx",
+      "title": "Departmental course lists, Semester II 2026-27",
+      "category": "schedule",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-II"
+      ],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "ih-preferences-2026-i",
+      "file": "documents/ih-preferences-2026-i.pdf",
+      "title": "Registration Cell IH2 and IH3 course preferences, Semester I 2026-27",
+      "category": "registration",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-I"
+      ],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "makeup-guidelines",
+      "file": "documents/makeup-guidelines.pdf",
+      "title": "Makeup and I Grade examination guidelines and forms",
+      "category": "policy",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "ih2-syllabi-2026-i",
+      "file": "documents/ih2-syllabi-2026-i.pdf",
+      "title": "IH2 course syllabi, Semester I 2026-27",
+      "category": "curriculum",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-I"
+      ],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "ih3-syllabi-2026-i",
+      "file": "documents/ih3-syllabi-2026-i.pdf",
+      "title": "IH3 course syllabi, Semester I 2026-27",
+      "category": "curriculum",
+      "authority": "IIT Jodhpur, supplied official academic record",
+      "effective_date": null,
+      "status": "current",
+      "semesters": [
+        "2026-27-I"
+      ],
+      "notes": "Supplied local source; exact publication/effective date is not stated unless recorded.",
+      "synthetic": false
+    },
+    {
+      "id": "gaurav-harit-contact",
+      "file": "documents/gaurav-harit-contact.txt",
+      "title": "Gaurav Harit \u2014 official IIT Jodhpur faculty contact excerpt",
+      "category": "contacts",
+      "authority": "IIT Jodhpur, Computer Science and Engineering faculty profile",
+      "effective_date": null,
+      "source_url": "https://iitj.ac.in/People/Profile/fea43e72-3cd7-4948-8475-65ededbcc375?ln=en",
+      "notes": "Public professional contact captured on 2026-10-29; the supplied allocation separately establishes teaching responsibility."
+    }
+  ],
+  "complete_course_semesters": [],
+  "complete_department_semesters": {
+    "2026-27-I": [
+      "Humanities"
+    ]
+  },
+  "topic_overrides": [
+    {
+      "keywords": [
+        "attendance",
+        "absent",
+        "absence",
+        "de-registration",
+        "deregistration"
+      ],
+      "preferred_document_ids": [
+        "attendance-amendment-2024"
+      ],
+      "excluded_document_ids": [
+        "academic-regulations-base"
+      ]
+    },
+    {
+      "keywords": [
+        "minor",
+        "major",
+        "evaluation",
+        "examination",
+        "exam",
+        "weightage"
+      ],
+      "preferred_document_ids": [
+        "examination-amendment-2024"
+      ],
+      "excluded_document_ids": [
+        "academic-regulations-base"
+      ]
+    }
+  ]
+}

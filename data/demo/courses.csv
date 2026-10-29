@@ -1,0 +1,7 @@
+course_code,title,department,level,course_type,slot,days,time,semester,section,instructor_id,source_document_id,source_locator
+CSL7570,Autonomous Systems,Computer Science,700,core,D3,Monday and Thursday,10:00-11:15,DEMO-2026-I,,F001,demo-timetable,line 4
+HUL4010,Ethics and Technology,Humanities,400,elective,H1,Tuesday,09:00-10:15,DEMO-2026-I,,F002,demo-timetable,line 5
+HUL4020,Literature and Society,Humanities,400,elective,H2,Wednesday,11:00-12:15,DEMO-2026-I,,F002,demo-timetable,line 6
+HUL4030,Philosophy of Science,Humanities,400,elective,H3,Friday,14:00-15:15,DEMO-2026-I,,F003,demo-timetable,line 7
+HUL3010,Introduction to Economics,Humanities,300,elective,H4,Monday,14:00-15:15,DEMO-2026-I,,F003,demo-timetable,line 8
+HUL4040,Communication Core,Humanities,400,core,H5,Tuesday,14:00-15:15,DEMO-2026-I,,F002,demo-timetable,line 9
